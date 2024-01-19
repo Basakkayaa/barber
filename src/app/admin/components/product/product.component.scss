@@ -1,0 +1,18 @@
+.trash-bin {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .delete-text {
+    position: absolute;
+    top: -10px;
+    left: 5%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+  }
+  
+  .trash-bin:hover .delete-text {
+    opacity: 1;
+  }
+  
