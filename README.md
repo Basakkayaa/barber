@@ -1,6 +1,16 @@
-# Barber
+# SoftIto-Barber Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
+
+### User Page
+![userPage](https://github.com/Basakkayaa/barber/assets/107078324/1287a4d9-b527-4201-af5c-3dd55fdc67bc)
+## Appointment Page
+![appointmentPage](https://github.com/Basakkayaa/barber/assets/107078324/25451bfb-8d76-45e2-9bda-0e0735d0ca03)
+### Product Page
+![productPage](https://github.com/Basakkayaa/barber/assets/107078324/7ba6cf8b-c8f5-4820-9bd5-a22ca195f15f)
+
+
+
 
 ## Development server
 
